@@ -1,0 +1,5 @@
+C:\Users\LENOVO\Desktop\NTierArch\DateAccess\obj\Debug\net6.0\DateAccess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\NTierArch\DateAccess\obj\Debug\net6.0\DateAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\NTierArch\DateAccess\obj\Debug\net6.0\DateAccess.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\NTierArch\DateAccess\obj\Debug\net6.0\DateAccess.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\NTierArch\DateAccess\obj\Debug\net6.0\DateAccess.csproj.CoreCompileInputs.cache
