@@ -14,7 +14,8 @@ namespace Business.Utilities.Profiles
         public ProductProfile()
         {
             CreateMap<ProductCreateDto, Product>();
-           
+            CreateMap<Product, ProductGetDto>();
+            CreateMap<ProductUpdateDto,Product>();
         }
 
     }

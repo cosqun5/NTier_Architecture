@@ -9,5 +9,6 @@ namespace Business.Utilities.Constants
 	public class ExceptionMessages
 	{
 		public static string ProductAlreadyExists = "Product Already Exists!";
+		public static string ProductNotFound = "Product not found";
 	}
 }
